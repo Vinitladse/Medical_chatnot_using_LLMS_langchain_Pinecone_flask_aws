@@ -1,1 +1,1 @@
-# Medical_chatnot_using_LLMS_langchain_Pinecone_flask_aws
+# Medical_chatbot_using_LLMS_langchain_Pinecone_flask_aws
